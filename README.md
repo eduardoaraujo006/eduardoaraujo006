@@ -2,7 +2,6 @@
 
 - 🔥 Estudante iniciante de programação 🔥
 - 💡 Estudando Python 🐍
-- 📱 Instagram: eduardo_araujo006
 
 <div align="center">
   <a href="https://github.com/eduardoaraujo006">
