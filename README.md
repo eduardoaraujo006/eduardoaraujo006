@@ -5,7 +5,7 @@
 
 - 🔥 Estudante iniciante de programação 🔥
 - 💡 Estudando Python <img align="center" alt="Rafa-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- 💡 Estudando Arduino <img align="center" alt="Rafa-Python" height="20" width="30" src="  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+- 💡 Estudando Arduino <img align="center" alt="Rafa-Python" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   
 <div align="center">
   <a href="https://github.com/eduardoaraujo006">
